@@ -3,15 +3,15 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=codydeny&label=Profile%20views&color=0e75b6&style=flat" alt="codydeny" /> </p>
 
-- 🔭 I’m currently working on [Intwiff](https://intwiff.com)
-
 - 🌱 I’m currently learning **Competive Programming**
 
 - 💬 Ask me about **React.JS, AWS, Django, Vue, Node**
 
 - 📫 How to reach me **puneetbhatt2000@gmail.com**
 
-- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1XZSQG0h0_C6xA1TtDLY0S1Zt6qC8LR5Z/view?usp=sharing)
+- 🔭 visit a SaaS I Built, A bike rental platform [Intwiff](https://intwiff.com)
+
+- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1DaVoFJaCDrz9eoKXWnN-vil5mjRgtwO5/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
