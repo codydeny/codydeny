@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=codydeny&label=Profile%20views&color=0e75b6&style=flat" alt="codydeny" /> </p>
 
-- 🌱 I’m currently learning **Competive Programming**
+- 🌱 I’m currently learning **Data Structures & Algorithms**
 
 - 💬 Ask me about **React.JS, AWS, Django, Vue, Node**
 
@@ -17,7 +17,7 @@
 <p align="left">
 <a href="https://twitter.com/puneetbhatt2000" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="puneetbhatt2000" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/punit-bhat" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="punit-bhat" height="30" width="40" /></a>
-<a href="https://codeforces.com/profile/puneetbhatt" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codeforces.svg" alt="puneetbhatt" height="30" width="40" /></a>
+<a href="https://leetcode.com/codydeny/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/leetcode.svg" alt="puneetbhatt" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
