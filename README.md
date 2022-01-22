@@ -11,7 +11,7 @@
 
 - 🔭 visit a SaaS I Built, A bike rental platform [Intwiff](https://intwiff.com)
 
-- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1DaVoFJaCDrz9eoKXWnN-vil5mjRgtwO5/view?usp=sharing)
+- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1cY68R4r9oeg4_e6LYujYmn1wLtTjiRTw/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
