@@ -3,15 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=codydeny&label=Profile%20views&color=0e75b6&style=flat" alt="codydeny" /> </p>
 
-- 🌱 I’m currently learning **Data Structures & Algorithms**
-
-- 💬 Ask me about **React.JS, AWS, Django, Vue, Node**
-
 - 📫 How to reach me **puneetbhatt2000@gmail.com**
-
-- 🔭 visit a SaaS I Built, A bike rental platform [Intwiff](https://intwiff.com)
-
-- 📄 Visit My Portfolio [puneet.devfolio.io](https://puneet.devfolio.io/)
 
 - 📄 Know about my experiences [Resume](https://drive.google.com/file/d/13WEtwP9nxj-r7XmdS0OJxpjCYD3xlTbo/view?usp=sharing)
 
